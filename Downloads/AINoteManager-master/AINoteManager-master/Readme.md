@@ -82,7 +82,7 @@ Hugging Face
 
 MySQL
 
-Video link:https://drive.google.com/file/d/1Mb63xj01ajrYuFDt9VW3AoVR7sbEXXUT/view
+Video link:https://drive.google.com/file/d/1ZEdL152tnn892gDjlDSDKgPC1g02q6w2/view?usp=drive_link
 Author
 By
   B Rhiswana Begam
